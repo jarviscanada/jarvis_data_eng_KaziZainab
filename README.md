@@ -59,7 +59,9 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_KaziZainab
 ## Professional Experiences
 
 **Data Engineer Trainee,  Jarvis, Toronto (2019-Present):** 
-- Implemented practical coding projects designed by industry experts to learn about core Big Data technologies. Researched different technologies to assist in the development of further training projects. Supported teammates by assisting them in troubleshooting their code.
+- Implemented practical coding projects designed by industry experts to learn about core Big Data technologies. 
+- Researched different technologies to assist in the development of further training projects. 
+- Supported teammates by assisting them in troubleshooting their code.
 
 **Data Research Analyst, Lakehead University, Thunder Bay (September 2019-May 2021):** 
 - Worked on multiple machine learning projects for interpreting data and familiarized with ML frameworks, statistical models, time series data modelling, MongoDB, Tableau, ML libraries such as Pytorch, Keras, Tensorflow, pandas, NumPy, Dataframe, Neural NLP techniques, and Big Data tools such as Scikit.
