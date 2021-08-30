@@ -76,6 +76,6 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_KaziZainab
 
 ## Miscellaneous
 - Linkedin Skill Assesment Badge
-  - Python [Link](https://www.linkedin.com/in/zainabkazi22/detail/assessments/Python%20(Programming%20Language)/report/)
-  - MySQL [Link](https://www.linkedin.com/in/zainabkazi22/detail/assessments/MySQL/report/)
-  - Machine Learning [Link](https://www.linkedin.com/in/zainabkazi22/detail/assessments/Machine%20Learning/report/)
+  - Python 
+  - MySQL 
+  - Machine Learning
