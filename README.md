@@ -58,12 +58,16 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_KaziZainab
 
 ## Professional Experiences
 
-**Data Engineer Trainee,  Jarvis, Toronto (2019-Present):** Implemented practical coding projects designed by industry experts to learn about core Big Data technologies. Researched different technologies to assist in the development of further training projects. Supported teammates by assisting them in troubleshooting their code.
+**Data Engineer Trainee,  Jarvis, Toronto (2019-Present):** 
+- Implemented practical coding projects designed by industry experts to learn about core Big Data technologies. Researched different technologies to assist in the development of further training projects. Supported teammates by assisting them in troubleshooting their code.
 
-**Data Research Analyst, Lakehead University, Thunder Bay (September 2019-May 2021):** Developed e-learning modules on the Znanja e-learning platform, which discuss ways to improve the recruitment and support of Autistic employees. Assisted colleagues in the organization and review of project tasks to improve their productivity.
+**Data Research Analyst, Lakehead University, Thunder Bay (September 2019-May 2021):** 
+- Worked on multiple machine learning projects for interpreting data and familiarized with ML frameworks, statistical models, time series data modelling, MongoDB, Tableau, ML libraries such as Pytorch, Keras, Tensorflow, pandas, NumPy, Dataframe, Neural NLP techniques, and Big Data tools such as Scikit.
+- Used Tableau database software for data cleaning and visualization as it processes data faster due to better indexing over other software options.
+- Worked as a Data Research Analyst in the DaTAlab research group of Lakehead University. My research work was funded by Natural Sciences and Engineering Research Council (NSERC), Govt. of Canada. My research projects are published in reputed conferences and journals. More description is provided in the  Project Section.
 
-**Graduate Assistant, Lakehead University, Thunder Bay (September 2019-May 2021):** Prepared and conducted coding lessons of JAVA Programming language, Web Health informatics, Database Management Systems, Software Engineering, and C programming language
-
+**Graduate Assistant, Lakehead University, Thunder Bay (September 2019-May 2021):** 
+- Prepared and conducted coding lessons of JAVA Programming language, Web Health informatics, Database Management Systems, Software Engineering, and C programming language
 
 ## Education
 
@@ -79,3 +83,5 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_KaziZainab
   - Python 
   - MySQL 
   - Machine Learning
+- Designed an innovative Smart Stove project which was selected to be showcased at a national level competition at the innovation expo of Power and Energy Week held by the Ministry of Power  & Electricity.
+- Successfully completed designing and implementing an Android based taxi calling app as my last year Android developing project. 
