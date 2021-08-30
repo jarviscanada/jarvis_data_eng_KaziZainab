@@ -65,7 +65,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_KaziZainab
 **Graduate Assistant, Lakehead University, Thunder Bay (September 2019-May 2021):** Prepared and conducted coding lessons of JAVA Programming language, Web Health informatics, Database Management Systems, Software Engineering, and C programming language
 
 
-## Education & Academic Projects
+## Education
 
 **Lakehead University, Thunder Bay, Ontario (2019-2021)**, MSc (Computer Science with Specialization  in Artificial Intelligence) Thesis-based
 - NSERC funded by Govt. of Canada and Faculty Research Award  (2019-2021)
